@@ -16,8 +16,10 @@ int main() {
     float area1;
     float pib1;
     int pontosTuristicos1;
-    float dendidade_populacional1
+    float dendidade_populacional1;
     float PIB_percapita1;
+
+
     
 
 
@@ -30,7 +32,7 @@ int main() {
     float area2;
     float pib2;
     int pontosTuristicos2;
-    float dendidade_populacional2
+    float dendidade_populacional2;
     float PIB_percapita2;
 
   // Área para entrada de dados
